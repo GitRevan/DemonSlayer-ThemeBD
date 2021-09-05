@@ -1,0 +1,22 @@
+/**
+* @name Demon Slayer
+* @version V0.2
+* @description A new anome theme for Demon Slayer fans and weebs
+* @author BC Vuazy
+
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+:root {
+--themeColor1: #3842DCFF;
+--themeColor2: #23E2E5FF;
+--customFont: 'Bahnschrift';
+--homeImage: url('https://i.imgur.com/lvg5zrK.jpg');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/4CSj2t8.jpg');
+--backgroundPosition: top;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 7px;
+--backgroundOpacity: 0.6;
+}
